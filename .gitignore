@@ -1,0 +1,4 @@
+# Backup archives — distributed via GitHub Releases, not in repo
+backup/
+
+.DS_Store
